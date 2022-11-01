@@ -1,9 +1,9 @@
-- 👋 My name is Felipe Guimarães, I am a technology student, passionate about mathematics and physics.
-- 🌱 I'm currently learning data science, data analysis, artificial intelligence and machine learning.
-- 👯 I seek to collaborate on projects involving mathematics, computing and physics.
-- 💬 Ask me about math, physics and computing.
-- 📫 How to reach me: https://www.linkedin.com/in/luisfelipelopes/
-- ⚡ Fun fact: I'm a master of logic and I already beat Spok from Star Trek.
+- 👋 Olá, Meu nome é Felipe Guimarães, sou estudante de tecnologia, apaixonado por matemática e física
+- 🌱 Atualmente tenho focado em me tornar um desenvolvedor Python.
+- 👯 Procuro colaborar em projetos envolvendo matemática, computação e física ou qualquer coisa que envolva números e calculos.
+- 💬 Pergunte-me sobre ciência e programação.
+- 📫 Como chegar até mim: https://www.linkedin.com/in/luisfelipelopes/
+- ⚡ Curiosidade: Sou metade Bachareal em Física pela UFPE, por que cursei metade do curso hehe, e sou um mestre da lógica por que já venci o Spok.
 
 <div align="center">
   <a href="https://github.com/lopesestacio">
@@ -12,12 +12,12 @@
 </div>
 
 
-### Tools and Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-<img src=" https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="40" height="40" />
+### Tecnologias que eu uso no meu dia ou estou aprendendo.
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img align="center" alt="flask" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whit" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
   
-
-### Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
