@@ -3,6 +3,7 @@
 - 👯 Procuro colaborar em projetos envolvendo matemática, computação e física ou qualquer coisa que envolva números e calculos.
 - 💬 Pergunte-me sobre ciência e programação.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/luisfelipelopes/
+- 📫 HackerRank: https://www.hackerrank.com/lopesestacio
 - ⚡ Curiosidade: Sou metade Bachareal em Física pela UFPE, por que cursei metade do curso hehe, e sou um mestre da lógica por que já venci o Spok.
 
 <div align="center">
