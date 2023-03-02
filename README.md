@@ -1,5 +1,5 @@
 - 👋 Olá, Meu nome é Felipe Guimarães, sou estudante de tecnologia, apaixonado por matemática e física
-- 🌱 Atualmente tenho focado em me tornar um desenvolvedor Python.
+- 🌱 Atualmente tenho focado em me tornar um Cientista de Dados e também desenvolvedor back-end.
 - 👯 Procuro colaborar em projetos envolvendo matemática, computação e física ou qualquer coisa que envolva números e calculos.
 - 💬 Pergunte-me sobre ciência e programação.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/luisfelipelopes/
