@@ -1,5 +1,5 @@
-- 👋 Olá, Meu nome é Felipe Guimarães, sou estudante de ciência da computação na Universidade Católica de Brasília.
-- 🌱 Atualmente tenho focado em me tornar desenvolvedor back-end.
+- 👋 Olá, Meu nome é Luis Felipe, sou estudante de ciência da computação e desenvolvedor de software.
+- 🌱 Atualmente tenho focado em me tornar desenvolvedor de software.
 - 👯 Procuro colaborar em projetos envolvendo matemática, computação e física ou qualquer coisa que envolva números e calculos.
 - 💬 Pergunte-me sobre ciência e programação.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/luisfelipelopes/
